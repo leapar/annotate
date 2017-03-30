@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/bosun-monitor/annotate"
-	elastic "gopkg.in/olivere/elastic.v3"
+	elastic "gopkg.in/olivere/elastic.v5"
 )
 
 type Backend interface {

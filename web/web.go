@@ -12,10 +12,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bosun-monitor/annotate"
+	"github.com/leapar/annotate"
 
-	"github.com/bosun-monitor/annotate/backend"
-	"github.com/gorilla/mux"
+	mux "github.com/gorilla/mux"
+	"github.com/leapar/annotate/backend"
 	"github.com/twinj/uuid"
 )
 
